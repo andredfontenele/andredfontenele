@@ -1,6 +1,8 @@
 ### Olá, eu sou o André Fontenele e seja bem-vindo ao meu perfil 👋
 
-✏️ Estudante de Análise e Desenvolvimento de Sistemas
+✏️ Estudante de Análise e Desenvolvimento de Sistemas.
+<br>
+🖥️ Atualmente aprendendo sobre HTML e CSS.
 
 <div>
   <a href="https://beacons.ai/andredfontenele">
@@ -17,5 +19,5 @@
  ##
  <div>
   <a href = "mailto:andrefonteneledev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/andreluizfontenele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="www.linkedin.com/in/andreluizfontenele-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
