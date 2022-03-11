@@ -1,8 +1,8 @@
-### Olá, eu sou o André Fontenele e seja bem-vindo ao meu perfil 👋
+### Olá, eu sou o André Fontenele e seja bem-vindo ao meu perfil!
 
 ✏️ Estudante de Análise e Desenvolvimento de Sistemas.
 <br>
-🖥️ Atualmente aprendendo sobre HTML e CSS.
+🖥️ Foco em desenvolvimento web.
 
 <div>
   <a href="https://beacons.ai/andredfontenele">
@@ -11,12 +11,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredfontenele&show_icons=false&theme=dark&_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredfontenele&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+ 
+  <div style="display: inline_block;">
+  <kbd align="right">
+  <kbd>Estudando:</kbd>
+  <br />
+  <br /> 
+  <img align="center" title="Js" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </kbd>
+  </div>
+    
   
  ##
  <div>
