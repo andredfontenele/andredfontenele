@@ -1,4 +1,4 @@
-### Olá, eu sou o André Fontenele e seja bem-vindo ao meu perfil!
+### Olá, eu sou o André Fontenele e seja bem-vindo(a) ao meu perfil!
 
 ✏️ Estudante de Análise e Desenvolvimento de Sistemas.
 <br>
