@@ -3,6 +3,8 @@
 ✏️ Estudante de Análise e Desenvolvimento de Sistemas.
 <br>
 🖥️ Foco em desenvolvimento web.
+<br>
+📧 Contato: andrefonteneledev@gmail.com
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredfontenele&show_icons=false&theme=dark&_all_commits=true&count_private=true"/>
