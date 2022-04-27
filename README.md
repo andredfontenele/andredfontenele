@@ -5,9 +5,6 @@
 🖥️ Foco em desenvolvimento web.
 
 <div>
-  <a href="https://beacons.ai/andredfontenele">
-  <img src="https://komarev.com/ghpvc/?username=andredfontenele&style=for-the-badge">
-<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredfontenele&show_icons=false&theme=dark&_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredfontenele&layout=compact&langs_count=16&theme=dark"/>
 </div>
