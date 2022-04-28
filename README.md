@@ -7,8 +7,8 @@
 📧 Contato: andrefonteneledev@gmail.com
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredfontenele&show_icons=false&theme=dark&_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredfontenele&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andredfontenele&show_icons=false&theme=dark&_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredfontenele&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
   <div style="display: inline_block;">
