@@ -23,7 +23,7 @@
     <br />
     <br /> 
   <img align="center" title="Js" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Bootstrap" alt="Boostrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+  <img align="center" title="Bootstrap" alt="Boostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </kbd>
   <kbd align="center">
   <kbd>Interesse em:</kbd> 
