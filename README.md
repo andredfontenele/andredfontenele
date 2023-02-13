@@ -5,6 +5,8 @@
 🖥️ Foco em desenvolvimento web.
 <br>
 📧 Contato: andrefonteneledev@gmail.com
+<br>
+📧 Portfólio: https://andre-portfolio-ten.vercel.app/
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andredfontenele&show_icons=false&theme=dark&_all_commits=true&count_private=true"/>
