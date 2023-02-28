@@ -1,6 +1,6 @@
 ### Olá, eu sou o André Fontenele e seja bem-vindo(a) ao meu perfil!
 
-✏️ Estudante de Análise e Desenvolvimento de Sistemas.
+✏️ Estudante de Análise e Desenvolvimento de Sistemas. 3/5.
 <br>
 🖥️ Foco em desenvolvimento web.
 <br>
