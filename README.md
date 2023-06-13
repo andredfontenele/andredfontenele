@@ -1,6 +1,6 @@
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Eu sou o André Fontenele e seja bem-vindo(a) ao meu perfil!
 
-✏️ Estudante de Análise e Desenvolvimento de Sistemas. 3/5.
+✏️ Estudante de Análise e Desenvolvimento de Sistemas. 4/5.
 <br>
 🖥️ Foco em desenvolvimento web.
 <br>
