@@ -14,7 +14,7 @@
 </div>
   <div style="display: inline_block;">
   <kbd align="center">
-  <kbd>Conhecimento:</kbd>
+  <kbd>Stacks:</kbd>
     <br />
     <br />
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,10 +33,11 @@
   <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   </kbd>
   <kbd align="center">
-  <kbd>Interesse em:</kbd> 
+  <kbd>Interesse:</kbd> 
      <br />
      <br />
   <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" title="JAVA" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
  </kbd>
  </div>
   
