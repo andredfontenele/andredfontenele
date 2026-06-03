@@ -6,7 +6,7 @@
 <br>
 📧 Contato: andrefonteneledev@gmail.com
 <br>
-📧 Portfólio: dev-portfolio-five-sigma.vercel.app
+📧 Portfólio: [dev-portfolio-five-sigma.vercel.app](https://dev-portfolio-five-sigma.vercel.app)
 
   <div style="display: inline_block;">
   <kbd align="center">
