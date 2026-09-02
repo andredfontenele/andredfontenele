@@ -1,6 +1,6 @@
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Eu sou o André Fontenele e seja bem-vindo(a) ao meu perfil!
 
-✏️ Formado em Análise e Desenvolvimento de Sistemas pela Unifametro.
+✏️ Formado em Análise e Desenvolvimento de Sistemas pela Unifametro e cursando Engenharia de Software pela PUC Minas.
 <br>
 🖥️ Trabalhando como Desenvolvedor Fullstack terceirizado pela Unitech, tendo como principal cliente a Unimed Fortaleza.
 <br>
